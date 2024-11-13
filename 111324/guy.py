@@ -1,5 +1,11 @@
 
 def prntguy():
     return "guy"
-print(prntguy())
     
+def prntran():
+    return "ran"
+
+
+def prntamit():
+    return "amit"
+print(prntguy(),prntran(),prntAmit())
